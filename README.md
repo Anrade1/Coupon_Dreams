@@ -39,7 +39,7 @@ The goal is to identify behavioral and demographic patterns in coupon acceptance
 - Overall acceptance rate: **~50%**
 - **Men and women equally accepted coupon from a coffee house, suggesting no gender bias in accepting coffee house coupons.**.
 - **Drivers who never visited a coffee house only accepted a coupon 20% of the time, meaning minimal interest from drivers without a history of coffee house patronage.**
--**Male drivers who never visited a coffee house showed minimal interest in the coupon, consistent with prior findings and no gender bias.**
+- **Male drivers who never visited a coffee house showed minimal interest in the coupon, consistent with prior findings and no gender bias.**
 
 
 ### Key Findings
