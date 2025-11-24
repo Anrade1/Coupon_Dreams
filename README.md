@@ -26,7 +26,6 @@ The goal is to identify behavioral and demographic patterns in coupon acceptance
 
 ---
 
----
 
 ### Bar Insights
 - **Frequent bar visitors** (≥1 visit/month) accept coupons **65–78% of the time**.  
